@@ -44,6 +44,7 @@ public class Alertasserteg {
 		String expttext1="I am a JS Confirm";
 		softassert.assertEquals(actualtext1, expttext1,"error");
 		softassert.assertAll();
+		
 }
 	@Test
 	public void checkboxverification() throws InterruptedException
